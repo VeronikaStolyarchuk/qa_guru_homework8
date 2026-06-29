@@ -1,0 +1,28 @@
+{
+  "id": 98765,
+  "name": "Беспроводной зарядный модуль ProCharge X2",
+  "brand": "VoltaTech",
+  "mass": {
+    "value": 185.5,
+    "unit": "g"
+  },
+  "dimensions": {
+    "length": 12.4,
+    "width": 7.2,
+    "height": 2.1,
+    "unit": "cm"
+  },
+  "prices": [
+    {
+      "currency": "RUB",
+      "amount": 2990,
+      "type": "retail"
+    },
+    {
+      "currency": "RUB",
+      "amount": 2450,
+      "type": "wholesale"
+    }
+  ],
+  "is_active": true
+}
